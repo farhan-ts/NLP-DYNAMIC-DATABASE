@@ -1,0 +1,14 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+SQLAlchemy==2.0.35
+pydantic==2.9.2
+python-multipart==0.0.12
+# Optional DB drivers (install separately if needed):
+# psycopg2-binary==2.9.9  # PostgreSQL
+# PyMySQL==1.1.1  # MySQL
+
+# Document processing + embeddings
+sentence-transformers==3.0.1
+pypdf==4.3.1
+python-docx==1.1.2
+scikit-learn==1.5.1

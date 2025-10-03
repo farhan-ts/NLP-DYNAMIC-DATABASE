@@ -1,0 +1,85 @@
+{"text": "how many employees do we have", "label": "count"}
+{"text": "count employees in the company", "label": "count"}
+{"text": "total number of staff", "label": "count"}
+{"text": "number of employees", "label": "count"}
+
+{"text": "average salary by department", "label": "avg_by_dept"}
+{"text": "avg salary per department", "label": "avg_by_dept"}
+{"text": "mean compensation by dept", "label": "avg_by_dept"}
+
+{"text": "list employees", "label": "list"}
+{"text": "show employees table", "label": "list"}
+{"text": "employees", "label": "list"}
+{"text": "list all staff", "label": "list"}
+{"text": "who reports to john smith", "label": "list"}
+{"text": "employees hired this year", "label": "list"}
+
+{"text": "top 5 highest paid employees in each department", "label": "top_paid_each_dept"}
+{"text": "top five earners per department", "label": "top_paid_each_dept"}
+{"text": "top 3 salaries in each dept", "label": "top_paid_each_dept"}
+
+{"text": "find employee with id 3", "label": "find_one"}
+{"text": "which employee has email bob@company.com", "label": "find_one"}
+
+{"text": "departments", "label": "departments_list"}
+{"text": "list departments", "label": "departments_list"}
+{"text": "show departments table", "label": "departments_list"}
+
+{"text": "what is the current headcount", "label": "count"}
+{"text": "how many people are on payroll", "label": "count"}
+{"text": "employee count please", "label": "count"}
+{"text": "total headcount across the company", "label": "count"}
+{"text": "count of staff in engineering", "label": "count"}
+
+{"text": "average pay per department", "label": "avg_by_dept"}
+{"text": "mean salary grouped by department", "label": "avg_by_dept"}
+{"text": "department-wise average compensation", "label": "avg_by_dept"}
+{"text": "compute avg annual_salary by dept", "label": "avg_by_dept"}
+{"text": "avg earnings per dept for 2024", "label": "avg_by_dept"}
+
+{"text": "show me the employee roster", "label": "list"}
+{"text": "display all employees", "label": "list"}
+{"text": "employees table please", "label": "list"}
+{"text": "list everyone hired in 2024", "label": "list"}
+{"text": "people with python skill earning over 120k", "label": "list"}
+{"text": "engineers in the data science department", "label": "list"}
+{"text": "who reports to \"John Smith\" exactly", "label": "list"}
+{"text": "employees hired after 2023", "label": "list"}
+{"text": "staff hired between 2022 and 2024", "label": "list"}
+{"text": "developers with javascript and sql", "label": "list"}
+{"text": "junior engineers in engineering", "label": "list"}
+
+{"text": "top 3 earners by department", "label": "top_paid_each_dept"}
+{"text": "highest paid 5 in each dept", "label": "top_paid_each_dept"}
+{"text": "show top ten salaries per department", "label": "top_paid_each_dept"}
+{"text": "best paid 2 employees in every department", "label": "top_paid_each_dept"}
+
+{"text": "lookup employee with emp_id 2", "label": "find_one"}
+{"text": "show record for employee id 7", "label": "find_one"}
+{"text": "find person whose email is alice@company.com", "label": "find_one"}
+{"text": "which employee has id = 3", "label": "find_one"}
+{"text": "who is using email bob@company.com", "label": "find_one"}
+
+{"text": "list all departments", "label": "departments_list"}
+{"text": "departments table please", "label": "departments_list"}
+{"text": "show department list", "label": "departments_list"}
+{"text": "display departments with manager_id", "label": "departments_list"}
+{"text": "departements", "label": "departments_list"}
+
+{"text": "how many employees joined this year", "label": "count"}
+{"text": "number of hires in 2024", "label": "count"}
+{"text": "count staff hired before 2023", "label": "count"}
+
+{"text": "avg salary per dept for engineers only", "label": "avg_by_dept"}
+{"text": "average compensation by department for marketing", "label": "avg_by_dept"}
+
+{"text": "people who report to John Smith", "label": "list"}
+{"text": "who reports to John Smith", "label": "list"}
+{"text": "show employees reporting to John Smith", "label": "list"}
+{"text": "reports to 'John Smith'", "label": "list"}
+
+{"text": "top 5 in each department hired after 2023", "label": "top_paid_each_dept"}
+{"text": "top 2 paid per dept with python skill", "label": "top_paid_each_dept"}
+
+{"text": "find employee with email john@company.com", "label": "find_one"}
+{"text": "employee whose id is 10", "label": "find_one"}

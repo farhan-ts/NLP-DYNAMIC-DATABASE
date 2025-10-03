@@ -1,0 +1,19 @@
+{
+  "name": "nlp-dynamic-db",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev:backend": "uvicorn backend.main:app --reload --port 8000",
+    "dev:frontend": "vite --config frontend/vite.config.js",
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\""
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.1",
+    "concurrently": "9.0.1",
+    "vite": "5.4.8"
+  }
+}

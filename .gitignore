@@ -1,0 +1,43 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Local data & caches
+example.db
+storage/
+*.sqlite3
+*.db
+*.db-journal
+
+# Environment
+.env
+.env.*
+
+# Coverage / test
+.coverage
+htmlcov/
+pytest_cache/
+
+# Misc
+*.bak
+*.tmp
